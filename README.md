@@ -1,9 +1,13 @@
 Feature Selection Application 1.0
 ==============================
-The purpose of the Application:
--In machine learning and statistics, feature selection is the process of selecting a set of relevant features from a data set. This application use the dataset that is stored in a .text file as input, this data contains many redundant and irrelevant features; where redundant features are those which provide repeated information of the currently selected feature, and irrelevant features provide information that are no use for our context. Here the application will choose the subset that minimizes the error rate, then it out puts them as a pair of feature/score per line in a tab separated file, where the score represents the probability for the occurrence of each feature in the dataset.
--This technique is used in areas where the number of features are many and the amount of samples are relatively few.
-(For more details please follow the link: http://en.wikipedia.org/wiki/Feature_selection)
+The purpose of the Application:  
+
+-In machine learning and statistics, feature selection is the process of selecting a set of relevant features from a data set. This application use the dataset that is stored in a .text file as input, this data contains many redundant and irrelevant features; where redundant features are those which provide repeated information of the currently selected feature, and irrelevant features provide information that are no use for our context. Here the application will choose the subset that minimizes the error rate, then it out puts them as a pair of feature/score per line in a tab separated file, where the score represents the probability for the occurrence of each feature in the dataset.  
+
+-This technique is used in areas where the number of features are many and the amount of samples are relatively few.  
+
+(For more details please follow the link: http://en.wikipedia.org/wiki/Feature_selection)  
+
 Features of the program:
 -a Feature Selection application using Pointwise mutual information (PMI) technique.
 -No external libraries used for the implementation of a feature selection approach.
