@@ -10,7 +10,7 @@ Features of the program:
 -The application is implemented using Java as programming language.
 -The application can be run on Unix-like environments (e.g., Mac OS or Debian).
 -The code is open source and can be found on GitHub.
-(please follow the link:#### ) 
+(please follow the link:https://github.com/ahmedfadhil/Feature-Selection-Application ) 
 -The file to read the dataset from is in Libsvm format. 
 (For more info about Libsvm please follow the link: http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 System requirements:
